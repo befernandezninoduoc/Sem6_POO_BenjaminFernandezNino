@@ -37,7 +37,7 @@ Sem6_POO_BenjaminFernandezNino/
 │   │   └── GestorUnidades.java
 │   └── ui/
 │       └── Main.java
-├── resources/                     ← marcada como Resources Root
+├── resources/                     
 │   ├── centros.txt
 │   └── plantas.txt
 ├── README.md
