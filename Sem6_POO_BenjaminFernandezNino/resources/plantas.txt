@@ -1,0 +1,3 @@
+Planta Salmon Montt;Puerto Montt;370
+Planta Salmon Chon;Chonchi;300
+Planta Salmon llín;Maullín;200
